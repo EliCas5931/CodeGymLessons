@@ -16,37 +16,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/CrazyEights.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/MinimumThreeNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="26" selection-end-column="18" />
+            <state relative-caret-position="338">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/PetsNeedPeople.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/MinimumOfFourNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="126">
+              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="34" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/RepititionMotherOfLearning.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+              <folding>
+                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#768#769#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/EvenToTheMoon.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/PrintThreeTimes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/MinimumOfTwoNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="210">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -110,6 +114,10 @@
         <option value="$PROJECT_DIR$/src/main/java/LevelTwo/PetsNeedPeople.java" />
         <option value="$PROJECT_DIR$/src/main/java/LevelTwo/MinimumOfTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/LevelTwo/EvenToTheMoon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LevelTwo/MinimumThreeNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LevelTwo/MinimumOfFourNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LevelTwo/RepititionMotherOfLearning.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LevelTwo/PrintThreeTimes.java" />
       </list>
     </option>
   </component>
@@ -181,9 +189,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RequiredNumber">
-    <configuration name="CalculateCircumference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LevelTwo.CalculateCircumference" />
+  <component name="RunManager" selected="Application.PrintThreeTimes">
+    <configuration name="EvenToTheMoon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LevelTwo.EvenToTheMoon" />
       <module name="CodeGym" />
       <extension name="coverage">
         <pattern>
@@ -195,8 +203,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LevelTwo.FirstConverter" />
+    <configuration name="MinimumOfFourNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LevelTwo.MinimumOfFourNumbers" />
       <module name="CodeGym" />
       <extension name="coverage">
         <pattern>
@@ -208,8 +216,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PartOfACalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LevelTwo.PartOfACalculator" />
+    <configuration name="MinimumThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LevelTwo.MinimumThreeNumbers" />
       <module name="CodeGym" />
       <extension name="coverage">
         <pattern>
@@ -221,8 +229,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PayRaise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LevelTwo.PayRaise" />
+    <configuration name="PrintThreeTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LevelTwo.PrintThreeTimes" />
       <module name="CodeGym" />
       <extension name="coverage">
         <pattern>
@@ -234,8 +242,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RequiredNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LevelTwo.RequiredNumber" />
+    <configuration name="RepititionMotherOfLearning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LevelTwo.RepititionMotherOfLearning" />
       <module name="CodeGym" />
       <extension name="coverage">
         <pattern>
@@ -249,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RequiredNumber" />
-        <item itemvalue="Application.PartOfACalculator" />
-        <item itemvalue="Application.CalculateCircumference" />
-        <item itemvalue="Application.PayRaise" />
-        <item itemvalue="Application.FirstConverter" />
+        <item itemvalue="Application.PrintThreeTimes" />
+        <item itemvalue="Application.RepititionMotherOfLearning" />
+        <item itemvalue="Application.MinimumOfFourNumbers" />
+        <item itemvalue="Application.MinimumThreeNumbers" />
+        <item itemvalue="Application.EvenToTheMoon" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +292,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -618,15 +626,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/MinimumOfTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="450">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/EvenToTheMoon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state relative-caret-position="495">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding>
+            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/MinimumThreeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/MinimumOfFourNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/RepititionMotherOfLearning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/PrintThreeTimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
         </state>
       </provider>
     </entry>

@@ -14,15 +14,28 @@ public class MinimumThreeNumbers {
 //            •	The main method should display the result of the min method. Each time, on a new line.
 //            •	The min method must return the minimum of the numbers a, b, and c.
 
-//    public static int min(int a, int b, int c) {
-//        //write your code here
-//    }
-//
-//    public static void main(String[] args) throws Exception {
-//        System.out.println(min(1, 2, 3));
-//        System.out.println(min(-1, -2, -3));
-//        System.out.println(min(3, 5, 3));
-//        System.out.println(min(5, 5, 10));
-//    }
+    public static int min(int a, int b, int c) {
+        //write your code here
+        int m;
+
+        if (a <= b && a <= c) {
+            m = a;
+        } else if (b <= a && b <= c) {
+            m = b;
+        } else if (c <= a && c <= b){
+            m = c;
+        } else {
+            m = 0;
+        }
+
+        return m;
+    }
+
+    public static void main(String[] args) throws Exception {
+        System.out.println(min(1, 2, 3));
+        System.out.println(min(-1, -2, -3));
+        System.out.println(min(3, 5, 3));
+        System.out.println(min(5, 5, 10));
+    }
 
 }

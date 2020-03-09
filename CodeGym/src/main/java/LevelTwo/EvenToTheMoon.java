@@ -24,14 +24,16 @@ public class EvenToTheMoon {
 //              in newtons to the lunar weight, and then return this value.
 
         public static void main(String[] args) {
-//        System.out.println(getWeight(888));
+        System.out.println(getWeight(888));
         }
 
-//    public static double getWeight(int earthWeight) {
-//        // write your code here
-//        double m;
-//
-//        return m;
-//    }
+    public static double getWeight(int earthWeight) {
+        // write your code here
+        double m;
+
+        m = earthWeight * .17;
+
+        return m;
+    }
 
 }
