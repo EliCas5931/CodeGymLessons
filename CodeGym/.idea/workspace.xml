@@ -46,11 +46,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/PrintThreeTimes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            <state relative-caret-position="390">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/DividingIsGood.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/DisplayRightAway.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+                <element signature="e#736#737#0" expanded="true" />
+                <element signature="e#771#772#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,8 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Lessons/CoolProgrammer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Lessons/KindWords.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lessons/YoungFriend.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lessons/DeclareVariables.java" />
         <option value="$PROJECT_DIR$/src/main/java/Level0/DeclareVariables.java" />
@@ -118,6 +140,8 @@
         <option value="$PROJECT_DIR$/src/main/java/LevelTwo/MinimumOfFourNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/LevelTwo/RepititionMotherOfLearning.java" />
         <option value="$PROJECT_DIR$/src/main/java/LevelTwo/PrintThreeTimes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LevelThree/DividingIsGood.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LevelThree/DisplayRightAway.java" />
       </list>
     </option>
   </component>
@@ -162,7 +186,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="LevelTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="LevelThree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -189,13 +213,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintThreeTimes">
-    <configuration name="EvenToTheMoon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LevelTwo.EvenToTheMoon" />
+  <component name="RunManager" selected="Application.DisplayRightAway">
+    <configuration name="DisplayRightAway" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LevelThree.DisplayRightAway" />
       <module name="CodeGym" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LevelTwo.*" />
+          <option name="PATTERN" value="LevelThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DividingIsGood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LevelThree.DividingIsGood" />
+      <module name="CodeGym" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LevelThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,19 +242,6 @@
     </configuration>
     <configuration name="MinimumOfFourNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LevelTwo.MinimumOfFourNumbers" />
-      <module name="CodeGym" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LevelTwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinimumThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LevelTwo.MinimumThreeNumbers" />
       <module name="CodeGym" />
       <extension name="coverage">
         <pattern>
@@ -257,11 +281,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DisplayRightAway" />
+        <item itemvalue="Application.DividingIsGood" />
         <item itemvalue="Application.PrintThreeTimes" />
         <item itemvalue="Application.RepititionMotherOfLearning" />
         <item itemvalue="Application.MinimumOfFourNumbers" />
-        <item itemvalue="Application.MinimumThreeNumbers" />
-        <item itemvalue="Application.EvenToTheMoon" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +306,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1874106" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1874106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -292,7 +316,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -312,13 +336,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/LevelZero/KindWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -669,8 +686,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LevelTwo/PrintThreeTimes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/DividingIsGood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/DisplayRightAway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
