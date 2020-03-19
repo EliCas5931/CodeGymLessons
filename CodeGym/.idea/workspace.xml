@@ -36,17 +36,95 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/FillPoolWithWater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="465">
+              <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="33" selection-end-column="19" />
+              <folding>
+                <element signature="e#1008#1009#0" expanded="true" />
+                <element signature="e#1063#1064#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/PrintingStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#793#794#0" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/TimeConversion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/SamIAm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/MultiplicationTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/RoyGBiv.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="33" selection-end-column="37" />
+              <folding>
+                <element signature="e#860#861#0" expanded="true" />
+                <element signature="e#909#910#0" expanded="true" />
+                <element signature="e#975#976#0" expanded="true" />
+                <element signature="e#1027#1028#0" expanded="true" />
+                <element signature="e#1093#1094#0" expanded="true" />
+                <element signature="e#1145#1146#0" expanded="true" />
+                <element signature="e#1209#1210#0" expanded="true" />
+                <element signature="e#1260#1261#0" expanded="true" />
+                <element signature="e#1322#1323#0" expanded="true" />
+                <element signature="e#1372#1373#0" expanded="true" />
+                <element signature="e#1461#1462#0" expanded="true" />
+                <element signature="e#1513#1514#0" expanded="true" />
+                <element signature="e#1579#1580#0" expanded="true" />
+                <element signature="e#1631#1632#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/EscapingCharacters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/PrintingStrings.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/TheWayOfTheSamurai.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="225">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -63,12 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/LevelOne/SolemlyPublishAndDeclare.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LevelOne/VariableOnOurScreen.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LevelOne/OneVariableIsNotEnough.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LevelOne/DisplaySquareOfNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LevelOne/OnlyTwentyWillDo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LevelOne/LearnOnceUseAnywhere.java" />
         <option value="$PROJECT_DIR$/src/main/java/LevelOne/HappyNewYear.java" />
         <option value="$PROJECT_DIR$/src/main/java/LevelOne/ChangeTheCode.java" />
         <option value="$PROJECT_DIR$/src/main/java/LevelOne/FewMoreCorrections.java" />
@@ -114,6 +186,12 @@
         <option value="$PROJECT_DIR$/src/main/java/LevelThree/SumOfFiveNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/LevelThree/FillPoolWithWater.java" />
         <option value="$PROJECT_DIR$/src/main/java/LevelThree/PrintingStrings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LevelThree/TimeConversion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LevelThree/SamIAm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LevelThree/MultiplicationTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LevelThree/RoyGBiv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LevelThree/EscapingCharacters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LevelThree/TheWayOfTheSamurai.java" />
       </list>
     </option>
   </component>
@@ -185,9 +263,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumOfFiveNumbers">
-    <configuration name="CurrencyExchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LevelThree.CurrencyExchange" />
+  <component name="RunManager" selected="Application.TheWayOfTheSamurai">
+    <configuration name="EscapingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LevelThree.EscapingCharacters" />
       <module name="CodeGym" />
       <extension name="coverage">
         <pattern>
@@ -199,8 +277,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParenthicalBrainteaser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LevelThree.ParenthicalBrainteaser" />
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LevelThree.MultiplicationTable" />
       <module name="CodeGym" />
       <extension name="coverage">
         <pattern>
@@ -212,8 +290,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOfTenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LevelThree.ProductOfTenNumbers" />
+    <configuration name="RoyGBiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LevelThree.RoyGBiv" />
       <module name="CodeGym" />
       <extension name="coverage">
         <pattern>
@@ -225,8 +303,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfFiveNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LevelThree.SumOfFiveNumbers" />
+    <configuration name="SamIAm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LevelThree.SamIAm" />
       <module name="CodeGym" />
       <extension name="coverage">
         <pattern>
@@ -238,8 +316,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TasksWithPercentages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LevelThree.TasksWithPercentages" />
+    <configuration name="TheWayOfTheSamurai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LevelThree.TheWayOfTheSamurai" />
       <module name="CodeGym" />
       <extension name="coverage">
         <pattern>
@@ -253,11 +331,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfFiveNumbers" />
-        <item itemvalue="Application.ProductOfTenNumbers" />
-        <item itemvalue="Application.ParenthicalBrainteaser" />
-        <item itemvalue="Application.TasksWithPercentages" />
-        <item itemvalue="Application.CurrencyExchange" />
+        <item itemvalue="Application.TheWayOfTheSamurai" />
+        <item itemvalue="Application.EscapingCharacters" />
+        <item itemvalue="Application.RoyGBiv" />
+        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.SamIAm" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +356,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1874106" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1874106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -288,7 +366,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -308,48 +386,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/LevelOne/SolemlyPublishAndDeclare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LevelOne/VariableOnOurScreen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LevelOne/OneVariableIsNotEnough.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LevelOne/DisplaySquareOfNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LevelOne/OnlyTwentyWillDo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LevelOne/LearnOnceUseAnywhere.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LevelOne/HappyNewYear.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -683,15 +719,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/FillPoolWithWater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="465">
+          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/PrintingStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/TimeConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/SamIAm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/MultiplicationTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/RoyGBiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="33" selection-end-column="37" />
+          <folding>
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1027#1028#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1145#1146#0" expanded="true" />
+            <element signature="e#1209#1210#0" expanded="true" />
+            <element signature="e#1260#1261#0" expanded="true" />
+            <element signature="e#1322#1323#0" expanded="true" />
+            <element signature="e#1372#1373#0" expanded="true" />
+            <element signature="e#1461#1462#0" expanded="true" />
+            <element signature="e#1513#1514#0" expanded="true" />
+            <element signature="e#1579#1580#0" expanded="true" />
+            <element signature="e#1631#1632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/EscapingCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LevelThree/TheWayOfTheSamurai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
         </state>
       </provider>
     </entry>

@@ -14,8 +14,16 @@ public class TimeConversion {
 //            •	The convertToSeconds method should not display anything.
 
     public static void main(String[] args) {
+        System.out.println(convertToSeconds(2));
+        System.out.println(convertToSeconds(5));
 
-        
+    }
+
+    public static int convertToSeconds(int hour) {
+        int min = hour * 60;
+        int sec = min * 60;
+
+        return sec;
     }
 
 }

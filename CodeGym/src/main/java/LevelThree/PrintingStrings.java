@@ -23,6 +23,8 @@ public class PrintingStrings {
 
     public static void writeToConsole(String s) {
         //write your code here
+        System.out.println("printing: " + s);
+
     }
 
 }
